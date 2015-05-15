@@ -1,7 +1,8 @@
 body {
 	background-color: rgb(176,196,222);
 	background-image: url(http://i60.tinypic.com/42cqu.png);
-	background-repeat: no-repeat;
+	background-repeat: repeat-y;
+	background-position: center;
 }
 
 .welcome {
