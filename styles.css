@@ -7,6 +7,7 @@ body {
 
 .welcome {
 	font-size: 200%;
-	color: rgb(255,255,255);
+	font-family: 'Indie Flower', cursive;
+	color: rgb(64,64,64);
 	text-align: center;
 }
