@@ -3,11 +3,11 @@ body {
 	background-image: url(http://i60.tinypic.com/42cqu.png);
 	background-repeat: repeat-y;
 	background-position: center;
+	color: rgb(64,64,64);
 }
 
 .welcome {
 	font-size: 200%;
-	color: rgb(64,64,64);
 	text-align: center;
 }
 
