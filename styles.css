@@ -4,11 +4,11 @@ body {
 	background-repeat: repeat-y;
 	background-position: center;
 	color: rgb(64,64,64);
+	text-align: center;
 }
 
 .welcome {
 	font-size: 200%;
-	text-align: center;
 }
 
 .welcome h1 {
