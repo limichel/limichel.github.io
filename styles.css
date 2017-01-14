@@ -1,0 +1,19 @@
+body {
+	background-color: rgb(176,196,222);
+	background-image: url(http://i60.tinypic.com/42cqu.png);
+	background-repeat: repeat-y;
+	background-position: center;
+	color: rgb(64,64,64);
+	text-align: center;
+}
+
+.welcome {
+	font-size: 200%;
+}
+
+.welcome h1 {
+	font-family: "Indie Flower", sans-serif;
+}
+.projects {
+	font-family: "Open Sans", sans-serif;
+}
