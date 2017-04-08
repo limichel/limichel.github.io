@@ -19,6 +19,11 @@ ul {
 .welcome h1 {
 	font-family: "Indie Flower", sans-serif;
 }
+
+.welcome .intro {
+	font-size: 50%;
+}
+
 .projects {
 	font-family: "Open Sans", sans-serif;
 }
